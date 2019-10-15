@@ -16,5 +16,5 @@ Set up Jupyter environment:
 5. `jt -t monokai -T`
 6. Extensions I like:
    1. Hinterland
-   2. Autopep8
+   2. Autopep8 (requires `pip install autopep8`)
    3. Codefolding
